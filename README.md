@@ -1,4 +1,4 @@
-# Steam Library PCGamingWiki Integration
+# Steam Library PCGamingWiki DRM Checker
 
 Developed and tested on Firefox and Greasemonkey. I have no idea how well it will run with other browsers and similar extensions (e.g. Tampermonkey)!
 
