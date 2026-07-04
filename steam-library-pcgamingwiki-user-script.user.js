@@ -1,9 +1,10 @@
 // ==UserScript==
-// @name         Steam Library PCGamingWiki Integration
+// @name         Steam Library PCGamingWiki DRM Checker
 // @namespace    https://github.com/fliker09/steam-library-pcgamingwiki-user-script
 // @version      2.0
-// @description  PCGamingWiki DRM/Store integration with configurable rate limiting
+// @description  Pull DRM status from PCGamingWiki and check if also available on GOG and itch.io
 // @author       fliker09
+// @license      GPL2
 // @supportURL   https://github.com/fliker09/steam-library-pcgamingwiki-user-script/issues
 // @icon         https://static.pcgamingwiki.com/favicons/pcgamingwiki.png
 // @match        https://steamcommunity.com/id/*/games*
