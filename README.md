@@ -12,4 +12,4 @@ GOG and itch.io are just that, badges. They don't act as buttons to the correspo
 
 Did I shamelessly vibe code the script? Absolutely! Sadly, the lazy approach didn't work for me and eventually had to properly spec it out. After some forth and back, finally arrived at this version!
 
-If you find bugs - please open an Issue and I will see what I can do. If you want new features - please open a Pull Request!
+If you find bugs - please open an [Issue](https://github.com/fliker09/steam-library-pcgamingwiki-user-script/issues) and I will see what I can do. If you want new features - please open a [Pull request](https://github.com/fliker09/steam-library-pcgamingwiki-user-script/pulls)!
